@@ -408,7 +408,7 @@ footer {
 
 .fot-left {
   width: 50%;
-  border: 1px solid red;
+/*   border: 1px solid red; */
   float: left;
 }
 
@@ -448,7 +448,7 @@ footer {
 
 .fot-right {
   width: 45%;
-  border: 1px solid red;
+/*   border: 1px solid red; */
   float: right;
 }
 
